@@ -5,7 +5,9 @@ ________________________________________________________________________________
 
 +chromium default profile local state
 
-Local State copy to replace in folder ~/.config/chromium 
+Local State copy to replace in folder ~/.config/chromium
+
+Local State example copy to opera , google-chrome , Brave-Browser
 
 and opera ~/.config/opera
 
