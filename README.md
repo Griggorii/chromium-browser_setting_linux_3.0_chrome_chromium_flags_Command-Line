@@ -13,6 +13,8 @@ and opera ~/.config/opera
 
 and google-chrome ~/.config/google-chrome
 
+and google-chrome ~/.config/google-chrome-unstable
+
 and brave ~/.config/BraveSoftware/Brave-Browser
 
 and alternative chromium platforme all browsers
