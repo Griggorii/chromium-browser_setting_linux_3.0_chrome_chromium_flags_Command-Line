@@ -1,7 +1,7 @@
 # chromium-browser_setting_linux_3.0_chrome_chromium_flags_Command-Line
 flags , griggorii , patent , find , example , registration , chrome , chromium , ffmpeg
 
-New version google-chrome-unstable_88.0.4292.2-1 http://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-unstable/
+New version google-chrome-unstable_88.0.4292.2-1 https://www.ubuntuupdates.org/pm/google-chrome-stable
 
 Chrome , chromium v88 wayland 100% example google-chrome-unstable /usr/share/applications/google-chrome-unstable.desktop replace my version restart session run wayland setting browser.
 
