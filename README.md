@@ -54,7 +54,7 @@ ________________________________________________________________________________
 
 Version variant color auto change tab group , close browser close fone background
 
-(Auto_color_tab_group_flag_by_griggorii_Local State.txt) rename to (Local State)
+(Auto_color_tab_group_flag_by_griggorii_Local State.txt) rename to (Local State) and chrome://flags/ tab-groups-collapse enabled
 
 Local State copy to replace in folder ~/.config/chromium example https://www.youtube.com/watch?v=I2aHs2mRtXc
 
