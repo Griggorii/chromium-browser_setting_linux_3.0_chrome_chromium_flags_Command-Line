@@ -5,6 +5,8 @@ New version google-chrome-unstable_88.0.4292.2-1 http://mirror.cs.uchicago.edu/g
 
 Chrome , chromium v88 wayland 100% example google-chrome-unstable /usr/share/applications/google-chrome-unstable.desktop replace my version restart session run wayland setting browser.
 
+root browser run setting no sandbox
+
 ________________________________________________________________________________________________________
 
 +chromium default profile local state
