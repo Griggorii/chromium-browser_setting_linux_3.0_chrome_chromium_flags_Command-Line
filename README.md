@@ -3,7 +3,7 @@ flags , griggorii , patent , find , example , registration , chrome , chromium ,
 
 New version google-chrome-unstable_88.0.4292.2-1 http://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-unstable/
 
-/usr/share/applications/google-chrome-unstable.desktop replace my version wayland 100%
+Chrome , chromium v88 wayland 100% example google-chrome-unstable /usr/share/applications/google-chrome-unstable.desktop replace my version restart session run wayland setting browser.
 
 ________________________________________________________________________________________________________
 
