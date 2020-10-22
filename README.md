@@ -1,6 +1,8 @@
 # chromium-browser_setting_linux_3.0_chrome_chromium_flags_Command-Line
 flags , griggorii , patent , find , example , registration , chrome , chromium , ffmpeg
 
+New version google-chrome-unstable_88.0.4292.2-1 http://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-unstable/
+
 ________________________________________________________________________________________________________
 
 +chromium default profile local state
