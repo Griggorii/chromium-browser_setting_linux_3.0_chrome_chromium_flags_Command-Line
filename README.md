@@ -8,6 +8,12 @@ Chromium 86 not telemetry term check telemetry chrome://terms/ download V86 ffmp
 
 sudo tar xvpf chromium-browser_86.tar.xz -C /
 
+Как отредактирован мой /usr/bin/chromium-browser можно посмотреть открыв его так что я пока не понял зачем делают огромную баш портянку если я сделал так и все запускается задумаемся кто там работает.
+
+_____________________________________________________________________________________________________________________________________________-
+
+Chrome 88 
+
 New version google-chrome-unstable_88.0.4292.2-1 https://www.ubuntuupdates.org/pm/google-chrome-stable telemetry chrome://terms/ из за этого очень плохо работает мог бы собрать такой хромиум разгугленный с поддержкой ffmpeg , но нету денег на мощное оборудование и вопрос не в том что бы избежать телеметрии , а дело в том что этот браузер из за этого очень плохо работает с этими флагами , а всякие онлаин компиляторы и сеошнички лезут по компилировать свою библиотеку на тебе как на жертве по скольку у них на этот браузер есть счеты за счет удаленного управления проводить эксперименты что сразу видно с моими флагами. 
 
 Chrome , chromium v88 wayland 100% example google-chrome-unstable /usr/share/applications/google-chrome-unstable.desktop replace my version restart session run wayland setting browser.
