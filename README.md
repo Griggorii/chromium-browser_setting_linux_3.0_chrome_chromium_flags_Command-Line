@@ -4,7 +4,7 @@ flags , griggorii , patent , find , example , registration , chrome , chromium ,
 
 Bitcoin support donate 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
 
-Chromium 86 not telemetry term check telemetry chrome://terms/ download V86 https://yadi.sk/d/QPbrhRhc7DcMfw
+Chromium 86 not telemetry term check telemetry chrome://terms/ download V86 ffmpeg support https://yadi.sk/d/QPbrhRhc7DcMfw
 
 New version google-chrome-unstable_88.0.4292.2-1 https://www.ubuntuupdates.org/pm/google-chrome-stable telemetry chrome://terms/ из за этого очень плохо работает мог бы собрать такой хромиум разгугленный с поддержкой ffmpeg , но нету денег на мощное оборудование. 
 
