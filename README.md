@@ -1,6 +1,6 @@
 - ![#03363D](https://github.com/Griggorii/chromium-browser_setting_linux_3.0_chrome_chromium_flags_Command-Line) `#03363D`
 # chromium-browser_setting_linux_3.0_chrome_chromium_flags_Command-Line
-flags , griggorii , patent , find , example , registration , chrome , chromium , ffmpeg , diff
+flags , griggorii , patent , find , example , registration , chrome , chromium , ffmpeg , diff , no snap , ubuntu 18.10 , 19.04 , 19.10 , 20.04, 20.10
 
 Bitcoin support donate 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
 
