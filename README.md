@@ -66,15 +66,11 @@ ________________________________________________________________________________
 
 Version variant color auto change tab group , close browser close fone background
 
-(Auto_color_tab_group_flag_by_griggorii_Local State.txt) rename to (Local State) 
-
-and 
-
 chrome://flags/ 
 
-find (tab-groups-collapse) enabled apple restart browser
+find flag (tab-groups-collapse) enabled apple restart browser
 
-Local State copy to replace in folder ~/.config/chromium example https://www.youtube.com/watch?v=I2aHs2mRtXc
+Example https://www.youtube.com/watch?v=I2aHs2mRtXc
 
 Re run chromium
 
