@@ -4,7 +4,7 @@ flags , griggorii , patent , find , example , registration , chrome , chromium ,
 
 Bitcoin support donate 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
 
-Chromium 86 not telemetry term check telemetry chrome://terms/ download V86 ffmpeg support https://yadi.sk/d/akHgj8rT6i07xw install command:
+Chromium 86 not telemetry term check telemetry chrome://terms/ download V86 ffmpeg support https://yadi.sk/d/K6tg66ehpAg3sA install command:
 
 sudo tar xvpf chromium-browser_86.tar.xz -C /
 
